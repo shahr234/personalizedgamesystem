@@ -31,7 +31,7 @@ The system was structured to allow new recommendation criteria to be added with 
 
 ---
 
-## Data Model 
+## 🗂️ Data Model 
 
 Users – authenticated via Supabase
 
@@ -43,7 +43,7 @@ Relational data was used to ensure consistency and reliable preference retrieval
 
 ---
 
-# Key Engineering Decisions
+#🧠Key Engineering Decisions
 
 Chose Supabase to rapidly prototype authentication and persistence while maintaining SQL-level control.
 
