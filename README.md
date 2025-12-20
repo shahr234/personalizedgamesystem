@@ -10,10 +10,15 @@ The project was designed and built end-to-end with a focus on clean architecture
 
 ## 🚀 Key Features
 🔐 Secure user registration and authentication (Supabase Auth)
+
 💾 Persistent user preference storage
+
 🎯 Dynamic filtering and sorting of game recommendations
+
 📊 Match percentage scoring to rank relevance
+
 📧 Email verification flow
+
 🖥️ Responsive, modular UI built with React
 
 ---
