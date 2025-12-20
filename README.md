@@ -64,6 +64,7 @@ Focused on maintainability over premature optimisation.
 ## How to run 
 
 npm install 
+
 npm start
 
 
