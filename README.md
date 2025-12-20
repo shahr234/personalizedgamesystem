@@ -46,7 +46,9 @@ Relational data was used to ensure consistency and reliable preference retrieval
 # Key Engineering Decisions
 
 Chose Supabase to rapidly prototype authentication and persistence while maintaining SQL-level control.
+
 Prioritised type safety and predictable data flows to reduce runtime errors.
+
 Focused on maintainability over premature optimisation.
 
 
