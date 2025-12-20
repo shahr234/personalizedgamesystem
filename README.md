@@ -21,7 +21,10 @@ The project was designed and built end-to-end with a focus on clean architecture
 ## Architecture & Design
 
 Frontend: React with modular, reusable components and clear separation of concerns
+
 Backend & Data: Supabase for authentication and PostgreSQL-backed data persistence
+
+
 State & Logic: Client-side filtering and scoring logic designed for clarity and extensibility
 
 The system was structured to allow new recommendation criteria to be added with minimal refactoring.
